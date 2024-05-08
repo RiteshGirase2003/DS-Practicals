@@ -1,8 +1,8 @@
-Timestamp,Email Address,Name,Email,Roll no ,PRN No.,Mobile No.,First year:   Sem 1,First year:   Sem 2,Second year:   Sem 1,Second year:   Sem 2
-1/17/2022 12:45:09,sejal.zambare19@pccoepune.org,Sejal Zambare,sejal.zambare19@gmail.com,TECOC359,72026841K,8208217782,8.4,8.6,9.8,9.9
+Timestamp,Email Address,Name,Email,Roll_no,PRN No.,Mobile No.,First year:   Sem 1,First year:   Sem 2,Second year:   Sem 1,Second year:   Sem 2
+1/17/2022 12:45:09,sejal.zambare19@pccoepune.org,Sejal Zambare,sejal.zambare19@gmail.com,TECOC359,72026841K,8208217782,,8.6,9.8,
 1/17/2022 12:45:44,rushikesh.thorat19@pccoepune.org,Rushikesh Vilas Thorat,rushikesh.thorat19@pccoepune.org,TECOC347,72026776F,9021261925,8.14,8.14,9.32,9.82
-1/17/2022 12:46:10,atharv.sontakke19@pccoepune.org,Atharv Sontakke,atharv123sontakke@gmail.com,TECOC340,72026742M,9009804629,6.61,6.61,9.14,9.14
-1/17/2022 12:46:21,amisha.sherekar19@pccoepune.org,Amisha Sunil Sherekar,amisha.sherekar19@pccoepune.org,TECOC328,72026696D,8698227548,7.2,7.3,8.9,9.2
+1/17/2022 12:46:10,atharv.sontakke19@pccoepune.org,Atharv Sontakke,atharv123sontakke@gmail.com,TECOC340,72026742M,9009804629,6.61,6.61,,9.14
+1/17/2022 12:46:21,amisha.sherekar19@pccoepune.org,Amisha Sunil Sherekar,amisha.sherekar19@pccoepune.org,TECOC328,72026696D,8698227548,,7.3,8.9,9.2
 1/17/2022 12:46:31,saurabh.sawardekar19@pccoepune.org,Saurabh Raju Sawardekar,saurabh.sawardekar19@pccoepune.org,TECOC326,72026682D,7774072850,7.05,7.45,9.05,9.4
 1/17/2022 12:48:06,priyanka.kizhekethottam19@pccoepune.org,Priyanka Sunil Kizhekethottam,priyankasunilkpsk@gmail.com,TECOC308,72026604B,8879528852,7.5,8,7.91,7.84
 1/17/2022 12:48:27,janhavi.pimplikar19@pccoepune.org,Janhavi Pimplikar,jpimplikar26@gmail.com,TECOC304,72026588G,7028925097,8.27,8.5,9.68,9.14
@@ -11,7 +11,7 @@ Timestamp,Email Address,Name,Email,Roll no ,PRN No.,Mobile No.,First year:   Sem
 1/17/2022 12:49:11,vighnesh.pathrikar19@pccoepune.org,Vighnesh Pathrikar,vighnesh.pathrikar19@pccoepune.org,TECOC353,72026808H,8007669855,9.09,9.36,9.91,9.95
 1/17/2022 12:49:35,vedant.nerkar19@pccoepune.org,Vedant Narendra Nerkar,vedantnerkar11@gmail.com,TECOB249,72026501M,9028008196,7.45,7.91,9.41,9.41
 1/17/2022 12:51:15,twinkle.shirsath19@pccoepune.org,Twinkle Shirsath,twinkle.shirsath19@pccoepune.org,TECOC332,72026715D,9307452683,9,9.5,9.77,9.86
-1/17/2022 12:51:43,akshay.siddannavar19@pccoepune.org,Akshay Ajay Siddannavar,akshay.siddannavar19@pccoepune.org,TECOC334,72026725M,9823343665,9,9.27,9.77,9.33
+1/17/2022 12:51:43,akshay.siddannavar19@pccoepune.org,Akshay Ajay Siddannavar,akshay.siddannavar19@pccoepune.org,TECOC334,72026725M,9823343665,9,9.27,,9.33
 1/17/2022 12:51:44,avadhut.joshi19@pccoepune.org,Avadhut Joshi,avadhut.joshi19@pccoepune.org,TECOC362,72026290K,8380995879,7.59,7.95,9.05,9.66
 1/17/2022 12:52:01,ritik.bazaz19@pccoepune.org,Ritik Bazaz,ritikbazazrb@gmail.com,TECOC315,72026645K,9086791952,6.36,6.59,8.5,8.59
 1/17/2022 12:52:32,sumedha.zaware19@pccoepune.org,Sumedha Zaware,zawaresumedha@gmail.com,TECOC342,72072651L,8308261661,8.04,8.1,9.59,9.66
@@ -22,7 +22,7 @@ Timestamp,Email Address,Name,Email,Roll no ,PRN No.,Mobile No.,First year:   Sem
 1/17/2022 12:57:49,rizwan.sayyed19@pccoepune.org,Rizwan Sayyed,rizwan.sayyed19@pccoepune.org,TECOC316,72026646H,9307781701,9.09,9.4,9.64,9.64
 1/17/2022 12:58:20,siddhesh.vharamble19@pccoepune.org,Siddhesh Vharambale,siddhesh.vharamble19@pccoepune.org,TECOC352,72026807K,9767417437,7.8,8.14,9.5,9.71
 1/17/2022 12:58:44,riya.shah19@pccoepune.org,Riya Sameer Shah,riya.shah19@pccoepune.org,TECOC327,72026685J,9518597804,8.82,9.23,9.82,9.82
-1/17/2022 13:03:24,tejas.podutwar19@pccoepune.org,Tejas Podutwar,tejas.podutwar19@pccoepune.org,TECOC305,72026592E,9518505174,8.68,9.42,9.86,9.82
+1/17/2022 13:03:24,tejas.podutwar19@pccoepune.org,Tejas Podutwar,tejas.podutwar19@pccoepune.org,TECOC305,72026592E,9518505174,,9.42,,9.82
 1/17/2022 13:03:40,aditi.naiknaware19@pccoepune.org,Aditi Hanumant Naiknaware ,aditi.naiknaware@gmail.com,TECOC373 ,72026487B,8080105892,9.42,9.55,9.05,9.18
 1/17/2022 14:26:54,prathamesh.pimparwar19@pccoepune.org,Prathamesh Pimparwar,prathamesh.pimparwar19@pccoepune.org,TECOC303,72026587J,7057421821,7.14,7.14,9.3,9.05
 1/17/2022 14:31:50,sanskruti.raskar19@pccoepune.org,Sanskruti Hanumant Raskar ,sanskruti.raskar19@pccoepune.org,TECOC312,72026629H,8637729749,8.81,9.18,8.86,9.09
